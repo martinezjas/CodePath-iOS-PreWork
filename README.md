@@ -23,9 +23,13 @@ Here's a walkthrough of implemented user stories:
 GIF created with **MacOS Screenshot**.
 ## App Brainstorming (Step 4)
 
+- I like to use the Apple Music app as it has backgrounds that change along with the album art and is responses to the beat of the music.
+- I like to use the CityTransit app as it allows me to easily choose my favorite stations and have their wait times displayed on the home screen for the MBTA system.
+- I like to use the Bobby app as it allows me to keep track of my subscriptions and color codes them based on their category.
+
 ## Notes
 
-Describe any challenges encountered while building the app.
+- I really didn't have much trouble making this demo as the instructions were clear enough to follow. There were some instances where I got lost, but after some clicking around, I was able to find the right place to be.
 
 ## License
 
